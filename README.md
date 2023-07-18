@@ -1,5 +1,3 @@
-<img src="https://github.com/pr2tik1/pr2tik1/blob/master/IMAGE-NAME">
-
 ### Welcome to my profile!
 Estudante de programação
 - 🔭 I’m currently working on image classification (also, I am brushing up my data structures and algorithms skills regularly).
