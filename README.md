@@ -7,6 +7,6 @@
 I'm a {studying web development}!
 I' am young christian!
 
-[![card](https://github-readme-stats.vercel.app/api?username=iuricode&theme=default)](https://github.com/Rodrigllb/github-readme-stats)
+[![card](https://github-readme-stats.vercel.app/api?username=Rodrigllb)](https://github.com/Rodrigllb/github-readme-stats)
 
 
