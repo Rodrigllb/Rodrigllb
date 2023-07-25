@@ -10,5 +10,5 @@ I' am young christian!
 [![card](https://github-readme-stats.vercel.app/api?username=Rodrigllb&show_icons=true&theme=dracula)](https://github.com/Rodrigllb/github-readme-stats)
 
 ###Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigllb&hide_progress=true&compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigllb&hide_progress=true&show_icons=true&theme=dracula)
 
