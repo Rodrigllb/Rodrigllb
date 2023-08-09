@@ -4,7 +4,9 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/fagnerpsantos/)](https://www.linkedin.com/in/rodrigo-liberato-4143b221b/)
 
 ### About me
-I'm a {studying web development}!
-I' am young christian!
+Estudante autodidata de {desenvolvimento web}! 
+- Nível: Iniciante;
+- Linguagens: HTML5, CSS3 e Javascript;
+- Frameworks: Bootstrap;
 
 [![card](https://github-readme-stats.vercel.app/api?username=Rodrigllb&show_icons=true&theme=dark&bg_color=DEG,461691,280063)](https://github.com/Rodrigllb/github-readme-stats) 
