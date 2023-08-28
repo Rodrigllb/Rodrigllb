@@ -7,5 +7,3 @@
 Estudante autodidata de {desenvolvimento web}! 
 - Nível: Iniciante;
 - Linguagens: HTML5, CSS3 e Javascript;
-
-[![card](https://github-readme-stats.vercel.app/api?username=Rodrigllb&show_icons=true&theme=dark&bg_color=DEG,461691,280063)](https://github.com/Rodrigllb/github-readme-stats) 
