@@ -1,4 +1,4 @@
-# 👨‍💻 Rodrigo Liberato
+# Rodrigo Liberato
 
 🚀 Desenvolvedor em evolução | 💡 Apaixonado por tecnologia | 🛠️ Construtor de soluções
 
@@ -18,7 +18,7 @@ Acredito no aprendizado contínuo através da prática e na evolução constante
 <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-<img align="center" alt="n8n" height="30" width="40" src="[https://cdn-icons-png.flaticon.com/512/2165/2165004.png](https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/n8n.svg)">
+<img align="center" alt="n8n" height="30" width="40" src="https://logo.svgcdn.com/simple-icons/n8n-dark.svg">
 
 </div>
 
